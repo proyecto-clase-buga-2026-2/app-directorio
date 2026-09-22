@@ -1,0 +1,10 @@
+venv/
+__pycache__
+*.pyc
+.env
+.DS_Store
+DirectorioApp.db
+diseno_base_datos.dbml
+diseno_base_datos.dbdiagram
+diseno_base_datos.md
+AGENTS.md
